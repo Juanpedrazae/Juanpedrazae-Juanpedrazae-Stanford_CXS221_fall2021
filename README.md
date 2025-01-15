@@ -1,4 +1,4 @@
-# Juanpedrazae-Juanpedrazae-Stanford_CXS221_fall2021
+# Stanford CXS221  fall 2021
 
 The areas covered were :
 - Supervised Learning (Linear and Logistic Regression).
